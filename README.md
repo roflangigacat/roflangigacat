@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8329F7&background=FF98E600&width=600&lines=Hey!+I+am+Alex%2C+student+of+programming+School+21)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8329F7&background=FF98E600&width=750&lines=Hey!+I+am+Alex%2C+student+of+programming+School+21)](https://git.io/typing-svg)
 
 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
